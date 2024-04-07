@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # This is a simple Person class
 class Person
   def initialize(first_name, last_name)
