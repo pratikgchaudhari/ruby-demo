@@ -1,4 +1,4 @@
-first_name,middle_name,last_name = ARGV
+first_name, middle_name, last_name = ARGV
 
 puts "Your first name: #{first_name}"
 puts "Your middle name: #{middle_name}"
