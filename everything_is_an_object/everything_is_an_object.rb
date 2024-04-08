@@ -1,0 +1,6 @@
+puts("1.class is an #{1.class}")
+puts("2.5.class is a #{2.5.class}")
+puts("true.class is a #{true.class}")
+puts("false.class is a #{false.class}")
+puts("nil.class is a #{nil.class}")
+puts("'this is a string'.class is a #{'this is a string'.class}")
