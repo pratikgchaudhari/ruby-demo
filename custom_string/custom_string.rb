@@ -26,4 +26,4 @@ puts custom_string
 custom_string.append!(' World!')
 puts custom_string
 
-print "#{custom_string.to_array}"
+print custom_string.to_array
